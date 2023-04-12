@@ -1,0 +1,29 @@
+.dropDownBtn {
+    border: none;
+    background-color:
+        #F8F8F8;
+}
+
+.searchInp {
+    background: #F8F8F8;
+}
+
+.navbar {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    color: #4D4D4D;
+}
+.navBottomLink{
+    font-size: 14px;
+    font-weight: 500;
+}
+.navbar-toggler-icon,.navbar-toggler {
+    background-color: #4D4D4D;
+    color: aliceblue;
+}
+
+.navbar-collapse.show {
+    width: 100%;
+}
